@@ -4,7 +4,7 @@
 
 Reality Check is a free, open-source tool that helps you evaluate the credibility of headlines and claims using a structured critical-thinking framework — combined with live web research powered by Claude.
 
-🔗 **Live app:** https://reality-check-hazel.vercel.app
+🔗 **Live app:** https://realitycheck-project.vercel.app
 
 ---
 
