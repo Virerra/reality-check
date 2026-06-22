@@ -51,7 +51,7 @@ That's it — no installs, no accounts with us, no cost beyond your own Anthropi
 This project is built with **React + Vite** and styled with **Tailwind CSS**.
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/reality-check.git
+git clone https://github.com/Virerra/reality-check.git
 cd reality-check
 npm install
 npm run dev
