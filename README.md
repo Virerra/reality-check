@@ -37,7 +37,7 @@ This is sometimes called a "bring your own key" (BYOK) app — you use your own 
 
 ## Getting Started (for users)
 
-1. Open the [live app](#) *(link coming soon)*
+1. Open the [live app](https://realitycheck-project.vercel.app)
 2. Click **Settings**
 3. Paste in your Anthropic API key — get one for free at [console.anthropic.com](https://console.anthropic.com/settings/keys)
 4. Start fact-checking
